@@ -43,7 +43,7 @@ header {
 }
 #guard{
   height: auto;
-  width: 20vw;
+  width: 15vw;
 }
 .right{
   position: absolute;
@@ -53,7 +53,7 @@ header {
 }
 #couple{
 height: auto;
-width: 50vw;
+width: 40vw;
 }
 .top{
   margin-top: 7vh;
