@@ -1,3 +1,3 @@
 # paralax-scroll
 
-This is a empty page to demonstrate page element movement based on scrolling
+This is a empty page to demonstrate movement based on scrolling
