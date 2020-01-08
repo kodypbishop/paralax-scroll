@@ -1,0 +1,66 @@
+html {
+  scroll-behavior: smooth;
+}
+header {
+  top: 0;
+  height: 7vh;
+  width: 100vw;
+  background: black;
+  position: fixed;
+}
+.empty{
+  width: 100vw;
+  height: 80vh;
+  background-color: transparent;
+}
+.solidbackground { 
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100vh;
+  width: 100vw;
+  background: url(../images/sunset.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -4;
+}
+.background{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  z-index: -3;
+  overflow: hidden;
+}
+#london{
+  width: auto ;
+  height: 50vh;
+}
+.left{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  z-index: -2;
+}
+#guard{
+  height: auto;
+  width: 20vw;
+}
+.right{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  z-index: -1;
+}
+#couple{
+height: auto;
+width: 50vw;
+}
+.top{
+  margin-top: 7vh;
+    height: 100vh;
+    background-color: grey;
+}
+.bottom{
+    height: 100vh;
+    background-color: lightslategrey;
+}
